@@ -1,6 +1,6 @@
 # flash_chat
 
-A new Flutter project.
+A new Flutter project.It is chatting app .we are trying to develop it 
 
 ## Getting Started
 

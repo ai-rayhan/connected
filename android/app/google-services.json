@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "164388987546",
-    "project_id": "connected-d46a8",
-    "storage_bucket": "connected-d46a8.appspot.com"
+    "project_number": "104661544959",
+    "project_id": "connected-c6b42",
+    "storage_bucket": "connected-c6b42.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:164388987546:android:b71f6a5383e341162db523",
+        "mobilesdk_app_id": "1:104661544959:android:aeb0a1160ecc817dd281ca",
         "android_client_info": {
           "package_name": "com.example.flash_chat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "164388987546-ms0jo3eb90q1v5f8efqdbgsflocdj5c4.apps.googleusercontent.com",
+          "client_id": "104661544959-7p2c252quk44p419bss7jgjc8bfkrnhf.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDbUpBXSy7GdPJA2uSvEdJyI9Qrv8Ms2qo"
+          "current_key": "AIzaSyDqpRdIGHJaK7-MU5ZbJVav41p6EzIDPgA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "164388987546-ms0jo3eb90q1v5f8efqdbgsflocdj5c4.apps.googleusercontent.com",
+              "client_id": "104661544959-7p2c252quk44p419bss7jgjc8bfkrnhf.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
